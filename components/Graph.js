@@ -4,7 +4,7 @@ import FusionCharts from 'react-native-fusioncharts';
 import axios from 'axios';
 import moment from 'moment';
 
-const config = {'x-ba-key': 'MDNjMGE4MzZkYWZhNGY3Yzg2OTlmZjQyOTMwYjZiYjk'};
+const config = {'x-ba-key': 'your-public-key'};
 
 export default class Graph extends Component {
   constructor(props) {
